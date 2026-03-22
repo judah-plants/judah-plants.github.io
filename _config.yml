@@ -22,9 +22,9 @@ author: Judah
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Submit a bumblebee sighting to BumbleBeeWatch.org: "https://www.bumblebeewatch.org/"
+    - Get free native plant seeds from the Ottawa Wildflower Seed Library: "https://wildflowerseedlibrary.ca/"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
